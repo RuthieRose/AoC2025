@@ -31,7 +31,10 @@ I had the right idea for Part 1, but I wasn't granular enough in my thinking for
 [back to top](#top)
 
 ## <a name="day2">Day 2</a>
+🌟 🌟
+Tbh, I had more trouble making my espresso this morning than I did completing this, which means I'm getting better at considering edge cases. (My Saint Frank espresso order should be here tomorrow, which will help a lot. :D)
 
+I really like the new format I'm working with in considering scenarios first. Maybe I should have been doing this all along? I fought pretty hard against showing my work in math as well... but this helped me figure out pretty quickly the one edge case I had not covered. 3 attempts and 2 right answers, I will call this a win for today. :) 
 
 
 [back to top](#top)
