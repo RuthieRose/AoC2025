@@ -40,7 +40,15 @@ I really like the new format I'm working with in considering scenarios first. Ma
 [back to top](#top)
 
 ## <a name="day3">Day 3</a>
+🌟 🌟
 
+Woke up before my alarm and had part 1 done before coffee. No difficulties with pulling a shot this morning, but my Saint Frank espresso will not in fact be here today (long sad story with UPS) so I have to settle for not-Saint Frank beans until we can get that figured out. 
+
+Different approach for Part 2 day! 
+
+It was interesting because I had more internal resistance to writing out my scenario this morning, but I realized that is exactly why I need to clearly articulate my strategy before I start throwing code out. 
+
+I got both gold stars on the first try this morning, and still doing this with zero AI help. We'll see if I can keep this up for the entirety of the 12 days. 
 
 
 [back to top](#top)
