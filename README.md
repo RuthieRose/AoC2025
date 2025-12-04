@@ -54,7 +54,13 @@ I got both gold stars on the first try this morning, and still doing this with z
 [back to top](#top)
 
 ## <a name="day4">Day 4</a>
+🌟 🌟
 
+Stayed up this time?? Why??? I have a day job and I need to function!!
+
+Haha in all seriousness I got this one completed pretty quickly considering I recreated my grid utility from scratch and I was up at 4 a.m. 
+
+Part 2 set up with a while loop I was able to exit with setting a flag. Considering the long day I had, I managed to think pretty clearly which was nice. It was especially great that I got both gold stars on the first try. And yes, I'm still AI-free. I'm loving how these little thinking exercises are feeling for my brain.
 
 
 [back to top](#top)
