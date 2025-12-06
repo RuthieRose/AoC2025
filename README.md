@@ -74,7 +74,11 @@ Whew. Life got to me today--I had some really important meetings at work and I d
 [back to top](#top)
 
 ## <a name="day6">Day 6</a>
+🌟 🌟
 
+What's going on? What day is it? Why am I recreating pivots in Python? What is sleep? (Still 100% organic btw!)
+
+Day 6 done!!
 
 
 
