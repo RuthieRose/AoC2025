@@ -66,6 +66,9 @@ Part 2 set up with a while loop I was able to exit with setting a flag. Consider
 [back to top](#top)
 
 ## <a name="day5">Day 5</a>
+🌟 🌟
+
+Whew. Life got to me today--I had some really important meetings at work and I did not have much time to dedicate to AoC this morning before work. In addition, I just couldn't get the logic right and had to debug the hell out of my solution to understand what I was doing wrong. It was simple and made perfect sense once I got it figured out, but some days are just more taxing than others. I finished just under the 24-hour mark. 
 
 
 [back to top](#top)
