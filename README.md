@@ -84,8 +84,21 @@ Day 6 done!!
 
 [back to top](#top)
 ## <a name="day7">Day 7</a>
+🌟 🌟
 
+Made a choice to sleep last night and had some family time this morning, so did not get started on this one until later in the day. 
 
+Part 1 I got very quickly.
+
+Part 2 I felt very, very dumb. While it had been some since I had done dfs, I had a feeling that I would not be able to make vanilla dfs would work for this.
+
+After a couple of drawings to understand the setup better and watching the first part of Neetcode's Unique Paths explainer (https://www.youtube.com/watch?v=IlEsdxuD4lY), I was able to set up the problem so that I could calculate the number of valid paths per position. 
+
+This was a nice challenge and made me realize I miss leetcoding on the regular. It was also nice to be able to find an explainer on a concept and adapt it for AoC without it taking me the entire day to figure out. 
+
+Still no AI, and I'm enjoying so much just brushing back up on concepts and figuring things out as I go.
+
+I really hope I have time to finish out AoC this week!
 
 [back to top](#top)
 
